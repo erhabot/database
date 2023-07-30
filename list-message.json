@@ -5700,7 +5700,7 @@
    {
       "id": "120363024471587972@g.us",
       "key": "info pecahan dm",
-      "response": "✨ *INFO PECAHAN DIAMOND*\n\n_note :_\n— _jumlah diamond = dm + bonus dm_\n— _untuk dm bonus tidak terhitung misi topup_\n\n*ML A*\n86 💎 : 78 + 8\n172 💎 : 156 + 16 \n257 💎 : 234 + 23\n344 💎 : 312 + 32\n429 💎 : 390 + 39\n514 💎 : 468 + 46\n600 💎 : 546 + 54\n706 💎 : 625 + 81\n878 💎 : 781 + 97\n963 💎 : 859 + 104\n1050 💎 : 937 + 113\n1220 💎 : 1093 + 127\n1412 💎 : 1250 + 162\n2195 💎 : 1860 + 335\n3073 💎 : 2641 + 432\n3688 💎 : 3099 + 599\n5532 💎 : 4649 + 883 \n6238 💎 : 5274 + 964\n\n*ML B*\n14 💎 : 13 + 1 \n42 💎 : 38 + 4 \n70 💎 : 64 + 6 \n100💎  : 91 + 9\n112 💎 : 102 + 10\n114 💎 : 104 + 13\n140 💎 : 127 + 13\n224 💎 : 204 + 20\n284 💎 : 254 + 30 \n355 💎 : 317 + 38 \n716 💎 : 633 + 83 \n1446 💎 : 1252 + 194",
+      "response": "✨ *INFO PECAHAN DIAMOND*\n\n*NOTE : BONUS DM TIDAK TERHITUNG MISI TOPUP EVENT*\n\n🍭 *DIAMOND ML A*\n86 💎 = 78 + ( bonus 8 )\n172 💎 = 156 + ( bonus 16 )\n257 💎 = 234 + ( bonus 23 )\n344 💎 =  312 + ( bonus 32 )\n429 💎 =  390 + ( bonus 39 )\n514 💎 =  468 + ( bonus 46 )\n600 💎 =  546 + ( bonus 54 )\n706 💎 =  625 + ( bonus 81)\n878 💎 = 781 + ( bonus 97 )\n963 💎 = 859 + ( bonus 104 )\n1050 💎 = 937 + ( bonus 113 )\n1220 💎 = 1093 + ( bonus 127 )\n1412 💎 = 1250 + ( bonus 162 )\n2195 💎 = 1860 + ( bonus 335 )\n3073 💎 = 2641 + ( bonus 432 )\n3688 💎 = 3099 + ( bonus 599 )\n5532 💎 = 4649 + ( bonus 883 )\n6238 💎 = 5274 + ( bonus 964 )\n\n🍭 *DIAMOND ML B*\n14 💎 = 13 + ( bonus 1 )\n42 💎 = 38 + ( bonus 4 )\n70 💎 = 64 + ( bonus 6 )\n100💎  = 91 + ( bonus 9 )\n112 💎 = 102 + ( bonus 10 )\n114 💎 = 104 + ( bonus 13 )\n140 💎 = 127 + ( bonus 13 )\n224 💎 = 204 + ( bonus 20 )\n284 💎 = 254 + ( bonus 30 )\n355 💎 = 317 + ( bonus 38 )\n568 💎 = 508 + ( bonus 30 )\n716 💎 = 633 + ( bonus 83 )\n1446 💎 = 1252 + ( bonus 194 )\n2976 💎 = 2501 + ( bonus 475 )\n7502 💎 = 6252 + ( bonus 1250 )",
       "isImage": false,
       "image_url": "-"
    },
@@ -6979,62 +6979,6 @@
       "image_url": "-"
    },
    {
-      "id": "120363130469627502@g.us",
-      "key": "dm ml a",
-      "response": "*🍓...ৎ໑ Diamond ml a.*\n_proses 1 - 20 menit after payment, legal 100% tapi kembali lagi atas kebijakan montoon._\n\n  86💎 = Rp 19,500 \n  172💎 = Rp 39,800\n  257💎 = Rp 59,000\n  344💎 = Rp 78.500\n  429💎 = Rp 96.500\n  514💎 = Rp 118.800\n  600💎 = Rp 136.700\n  706💎 = Rp 158.300\n  878💎 = Rp 197.500\n  963💎 = Rp 217.000\n  1050💎 = Rp 239.600\n  1220💎 = Rp 273.000\n  1412💎 = Rp 318.000\n  1669💎 = Rp 371.000\n  1841💎 = Rp 398.048\n  2195💎 = Rp475.000\n  3073💎 = Rp 661.500\n  3688💎 = Rp 772.200\n  4032💎 = Rp 864.500\n  5532💎 = Rp 1.160.000\n  6238💎 = Rp 1.420.500\n  7376💎 = Rp 1,563.600\n  7726💎 = Rp 1.689.300\n  8432💎 = Rp 1.791.100\n  9288💎 = Rp 1.999.600\n  11064💎 = Rp 2.581.400",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "dm ml b",
-      "response": "*DIAMOND ML B.*\n\n```14💎 4.600\n28💎 8.500\n42💎 11.500\n56💎 15.000\n70💎\t18.000\n112💎 27.200\n140💎 34.000\n210💎 49.000\n284💎 65.000\n355💎\t81.000\n429💎\t97.500\n568💎 129.000\n716💎\t168.000\n1071💎 247.000\n1446💎 326.000\n2976💎 638.000\n7502💎 1.650.000```",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "starlight ml",
-      "response": "STARLIGHT MLBB.\n\n*Via ID Server.*\n(proses 1-35menit udah termasuk fast ya).\n- 300💎 Rp 70.000(starlight biasa).\n- 753💎 Rp 168.500 (starlight plus).",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "cn season ml",
-      "response": "CHANGE NAME SEASON.\n\nRp 14.500 = 42💎 + 5💎 + 5💎\ndi topupkan selama 3 hari berturut - turut, setiap jam 8 malam.\n\n- aku gaakan kabari terus menerus untuk topupnya, jadi di check sendiri dan mandiri yap!",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "gift charisma",
-      "response": "*♡ CHARISMA VIA GIFT.*\n\nCharisma 8💎 = 1.500\nCharisma 20💎 = 3.500 (biasa)\nCharisma 20💎 = 4.000 (sanrio)\nCharisma 499💎 = 78.000\nCharisma 999💎 = 150.000",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "joki ml",
-      "response": "*JOKI MLBB.*\n\n*rank via login :  / ⭐️*\n    ♡. master = Rp 2.500 / ⭐️\n    ♡. grandmaster = Rp 4.000 / ⭐️\n    ♡. epic = Rp 5.000 / ⭐️\n    ♡. legend = Rp 6.000 / ⭐️\n    ♡. mythic = Rp 10.000 / ⭐️\n    ♡. mytich honor = Rp 13.500 / ⭐️\n    ♡. mytich glory =Rp 16.500 / ⭐️\n    ♡. glory 70 > = Rp 18.500 / ⭐️\n    ♡. mytich grading =Rp 150.000\n\n*joki rank via mabar : / win*\n    ♡. master = Rp 4.500 / win\n    ♡. grandmaster = Rp 6.000 / win\n    ♡. epic = Rp 7.000 / win\n    ♡. legend = Rp 8.000 / win\n    ♡. mythic = Rp 12.000 / win\n    ♡. mythic honor = Rp 15.500 / win\n    ♡. mythic glory =Rp 18.500 / win\n    ♡. glory 70 > = Rp 20.500 / win\n    ♡. mythic grading =Rp 195.000\n\n*joki classic up wr : / win*\n    ♡. Epic = Rp 4.500 / win\n    ♡. Legend = Rp 5.500 / win\n    ♡. Mythic = Rp 8.000 / win\n\n*joki mcl win via login.*\n    ♡. MCL weekly = Rp 85.000\n    ♡. MCL final = Rp 110.000\n\n            ֜֜ ֜ ໑ format order.\n            ֜֜ ֜ ໑  rules order.",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "format order dm ml",
-      "response": "*FORMAT DM ML.*\n\nid :\nserver :\nnick :\norder dm :\ndenom : A/B",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "canva premium",
-      "response": "*CANVA PREMIUM.*\n1 hari : 700p\n3 hari : 1.000\n7 hari : 4.000\n1 bulan : 6.000\n2 bulan : 8.000\n3 bulan : 9.500\n4 bulan : 11.000\n5 bulan : 13.000\n6 bulan : 15.000\n1 tahun : 17.000 (garansi 6 bulan)\n\nDESIGNER : harian +1.000, bulanan +2.000\n\n- sistem invite email cust.",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
       "id": "120363023049956986@g.us",
       "key": "voucher game",
       "response": "*VOUCHER GAME* \n_UNIPIN VOUCHER_\n• VOUCHER UNIPIN ID 300 Rp.286.775\n• VOUCHER UNIPIN ID 500 Rp.471.075\n_GARENA SHELL_\n• GS 33 SHELL Rp 9.500\n• GS 66 SHELL Rp. 19.000\n• GS 165 SHELL Rp.46.800\n• GS 330 SHELL Rp.90.500\n_RAZER GOLD_ \n• VOUCHER RAZER GOLD ID 500 K Rp.480.000\n_PB CASH_ \n• 1200 PB CASH Rp.9.150\n• 2400 PB CASH Rp.18.300\n• 6000 PB CASH Rp. 45.947 \n• 12000 PB CASH Rp.91.894\n• 24000 PB CASH Rp.183.788\n• 36000 PB CASH Rp.275.682\n• 60000 PB CASH Rp.459.470\n•KOIN SENYUM\nKOIN SENYUM PECAHAN 100,500,1000 OPEN MALAM HARGA KE PM JA.\n\nS&K\n•  Proses Fast 1-60 menit maks 24 jam \n•  100% Legal \n•  Wajib Langsung Redeem no garansi kalau telat 30 menit.\n•  Wajib Record",
@@ -7054,13 +6998,6 @@
       "response": "🛍️ *MOBILE LEGENDS VIA LOGIN 90% SAFE*\n\nWAJIB BACA _*NOTE*_ DAN _*S&K*_ SEBELUM ORDER. \n\n📌 *LOGIN FACEBOOK*\n📌 *LOGIN MOONTON*\n----------------------------------------------\n615    💎 Rp 115.000\n890    💎 Rp 160.000\n1.205 💎 Rp 215.000\n1.480 💎 Rp 250.000\n1.815 💎 Rp 300.000\n2.0.90 💎 Rp 345.000\n2.380 💎 Rp 395.000\n3.025 💎 Rp 495.000\n3.580 💎 Rp 590.000\n4.180 💎 Rp 685.000\n4.790 💎 Rp 760.000\n5.355 💎 Rp 860.000\n6.000 💎 Rp 940.000\n12.000 💎 Rp 1.880.000\n\n*BOLEH DI CAMPUR ATAU KELIPATAN*\n\n_*NOTE :*_\n📍 *Akun Perlu Dimainkan*\n📍 *Legal With Invoice*\n📍 *Proses 1-3Jam (Max 24jam)*",
       "isImage": false,
       "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "payment",
-      "response": "*PAYMENT WIKU ONLY.*\n⚠️QRIS a.n MitraBL*537026, qris kalo gabisa di scan, di crop aja yak.\n_(semua atas nama CA  / NCS)._\n\nNomor E-wallet :\n081228811510 (dana, ovo, gopay, spay).\n\nBank :\n105453787692 (Jago).\n\nE-wallet cadangan :\nhttps://link.dana.id/qr/y5lrg78l (dana).",
-      "isImage": true,
-      "image_url": "https://telegra.ph/file/775f27f1f832459665281.jpg"
    },
    {
       "id": "120363143957245741@g.us",
@@ -7122,13 +7059,6 @@
       "id": "120363073374638120@g.us",
       "key": "roomtour",
       "response": "      𝐑𝐎𝐎𝐌 𝐓𝐎𝐔𝐑𝐍𝐀𝐌𝐄𝐍𝐓  \n\n  ୧  ֹ    ᪶  ᪶ ‌  ׅ   ۪۪۪   ֹ  ⟢  ☁️  ⟣  ֹ   ༉  ‌    ᪶  ᪶ ‌  ׅ   ୨\n\n—  room tournament solo \n1 match    ⨾ Rp 2.5OO\n2 match    ⨾ Rp 5.OOO\n\n—  room tournament per  jam\n1 jam        ⨾ Rp 4O.OOO\n\n—  room tournament per  match\n1 match   ⨾  Rp 25.OOO",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "rumus dm ml",
-      "response": "*PECAHAN DIAMOND ML💎*\n\nBerikut rinciannya : \n\n*ML A*\n```86💎= 78 + (Bonus 8)```\n```172💎= 156 + (Bonus 16)```\n```257💎= 234 + (Bonus 23)```\n```344💎= 312 + (Bonus 32)```\n```429💎= 390 + (Bonus 39)```\n```514💎= 468 + (Bonus 46)```\n```600💎= 546 + (Bonus 54)```\n```706💎= 625 + (Bonus 81)```\n```878💎= 791 + (Bonus 97)```\n```1050💎= 940 + (Bonus 110)```\n```1220💎= 1093 + (Bonus 127)```\n```1412💎= 1250 + (Bonus 162)```\n```2195💎= 1860 + (Bonus 335)```\n```3688💎= 3099 + (Bonus 589)```\n```5532💎= 4649 + (Bonus 883)```\n```6238💎= 5274 + (Bonus 964)```\n```7727💎= 6509 + (Bonus 1218)```\n```8433💎= 7233 + (Bonus 1200)```\n```9288💎= 7740 + (Bonus 1548)```\n\n *ML B*\n ```14 💎= 13 + (Bonus 1)```\n ```28 💎= 26 + (Bonus 2)```\n ```42 💎= 38 + (Bonus 4)```\n ```70 💎= 64 + (Bonus 6)```\n ```112 💎= 102 + (Bonus 10)```\n ```140 💎= 127 + (Bonus 13)```\n ```284 💎= 254 + (Bonus 30)```\n ```355 💎= 317 + (Bonus 38)```\n ```429 💎= 383 + (Bonus 46)```\n ```569 💎= 510 + (Bonus 59)```\n ```716 💎= 633 + (Bonus 83)```\n ```1446 💎= 1252 + (Bonus 194)```\n ```2976 💎= 2501 + (Bonus 475)```\n ```7502 💎= 6252 + (Bonus 1250)```\n\n\n\n*CATATAN*\nBonus Tidak di Hitung Oleh Montoon Saat Event.",
       "isImage": false,
       "image_url": "-"
    },
@@ -7360,13 +7290,6 @@
       "id": "120363143957245741@g.us",
       "key": "canva",
       "response": "*CANVA PREMIUM*\n*CANVA PREMIUM*\n\n🐣 MEMBER\n- 1 bulan 10.000\n- 3 bulan 15.000\n- 6 bulan 18.000\n\n🐣 DESIGNER\n- 1 bulan 15.000\n- 3 bulan 20.000\n- 6 bulan 22.000\n\n*note :*\n- akun dari admin",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "rules dm vilog",
-      "response": "*Rules order diamond ml vilog.*\n(dibaca baik-baik, agar tidak ada kesalahpahaman)\n\n• Via login akun kamu, proses 1-4jam, max 2hari jika banyak antrian tidak bisa in rush.\n• Dimainkan rank & classic, tidak bisa request classic aja, dan tidak dijamin menang karna bukan ngejoki.\n• privasi aman 100%.\n• buy with risk, setelah beli tidak ada pertanggung jawaban dari aku lagi, tapi sejauh ini aman karna dimainkan dulu, dan aku juga pakai buat pribadi.\n• wajib matikan V2L, jika tidak di matikan maka akan di skip ke antrian berikutnya.\n• dilarang login jika akun sedang di proses, jika sudah done pasti akan di kabarin.\n• nabrak pas proses denda 10k atau angus.\n• bisa minta invoice kalau dibutuhkan.\n• kesalahan buyer bukan tanggung jawabku.\n\n\n*order = paham no cancel & refund, kecuali ganti denom, melanggar semua ketentuan diatas = hangus.*",
       "isImage": false,
       "image_url": "-"
    },
@@ -7686,13 +7609,6 @@
       "image_url": "-"
    },
    {
-      "id": "120363130469627502@g.us",
-      "key": "canva premium",
-      "response": "*CANVA PREMIUM.*\n1 hari : 500p\n3 hari : 2.000\n7 hari : 3.000\n1 bulan : 5.000\n2 bulan : 7.000\n3 bulan : 8.000\n4 bulan : 9.500\n5 bulan : 10.000\n6 bulan : 12.000\n1 tahun : 15.000 (garansi 6 bulan)\nLIFETIME = 18.000 (garansi 6 bulan)\n\nDESIGNER : harian +1.000, bulanan +2.000\n\n- sistem invite email cust",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
       "id": "34619810687-1343733528@g.us",
       "key": "tes",
       "response": "jdjkska",
@@ -7833,48 +7749,6 @@
       "image_url": "-"
    },
    {
-      "id": "120363130469627502@g.us",
-      "key": "netflix premium",
-      "response": "*♡ NETFLIX PREMIUM.*\n\n_( 2user 1 profil )_\n1 hari : 1.5k\n2 hari : 3k\n3 hari : 4k\n5 hari : 6k\n7 hari : 8k\n1 bulan : 20k\n\n_( 1user 1profil )_\n1 hari : 3k\n2 hari : 4.5k\n3 hari : 5.5k\n5 hari : 7.5k\n7 hari : 9k\n14 hari : 18k\n1 bulan : 31k\n1 bulan : 35k (bill indo legal)\n\n- full warranty\n- 28 sampai 30 days.\n\n- khusus yang bill indo lebih mahal dikarenakan legal, tidak akan error.\n- tetapi selain yang bill lain legal juga akunnya sejauh ini strong, jarang ada problem.\n- bisa login smart tv.",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "create sq",
-      "response": "*CREATE SQUAD ML.*\n\n```Rp 27.000 / create squad.```\n- sistem maker & tfo.\n\nFORMAT ORDER CREATE SQUAD.\nnick + ID : \nnama squad :\nsingkatan :\nflag : \ndeskripsi :\n\n(note). \n- nama squad cuman bisa 16 kata termasuk spasi.\n- nama squad dilarang strong menggunakan strip.\n- nama squad tidak bisa pkai symbol lope.",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "bundle ml",
-      "response": "*BUNDLE  MLBB.*\n\n_Twillight via id server._\nRp 132.000\n(proses 10-50menit jika web delay, butuh nick id dan server aja).\n\nTwillight via login ml.\nRp 105.000\n(proses di mainkan cl dan rank, sistem login ml. Tanya dlu open apa ga).\n\n_Epic Bundle via login._\nRp 65.000 (belum dimainkan).\nRp 60.000 (sudah dimainkan & tidak ganti pw juga logout all dev).\n\nnote. \n- proses login akun dan dimainin rank, cl, tidak dijamin win.",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "weekly pass",
-      "response": "*WEEKLY PAS VIA ID.*\n\nRp 26.000 (terhitung 100💎).\n\n*VIA LOGIN.*\nRp 22.000 (akun dimainkan rank & cl, terhitung 100💎 juga syarat vilog di baca!!).",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "up like ml",
-      "response": "*LIKE ALBUM/PROFILE MLBB*\n\n14.000 / 100 LIKE\n \nFORMAT UPLIKE ML.\nid :\nnick :\nuplike : profil/album (pilih salah satu).\nlike awal : (like sebelum di up like).\n\n- Diproses tiap malam. (per100 tiap akun).\n1 x 24 jam, jika ada antrian 3 x 24 jam.\n- Order = Sabar yaa tolong, nanti jika sudah done maka akan di beritahu.",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "genshin",
-      "response": "*GENSHIN IMPACT VIA ID + SERVER.*\n60 🔮 Rp 13.420\n300 + 30 🔮 Rp 60.000\n980 + 110 🔮 Rp 179.500\n1980 + 260 🔮 Rp 378.500\n\nBlessing welkin Rp 59.000\n\n- dapat invoice.\n- tanya stock sebelum order.",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
       "id": "120363046999764087@g.us",
       "key": "skin item gift",
       "response": "◜. . ᥎іᥲ gі𝖿𝗍 skіᥒ & і𝗍ᥱm mᥣᑲᑲ — !\n\n\n     ⌇🌷 skіᥒ sһ᥆⍴ m᥆ᑲіᥣᥱ ᥣᥱgᥱᥒძs\nㅤㅤ𐚁 ፧ㅤnormal 269💎 ⨾ Rp 38.OOO\nㅤㅤ𐚁 ፧ㅤnormal 299💎 ⨾ Rp 42.OOO\nㅤㅤ𐚁 ፧ㅤelite 399💎 ⨾ Rp 55.OOO\nㅤㅤ𐚁 ፧ㅤelit 599💎 ⨾ Rp 8O.OOO\nㅤㅤ𐚁 ፧ㅤspecial 629💎 ⨾ Rp 85.OOO\nㅤㅤ𐚁 ፧ㅤspecial 749💎 ⨾ Rp 1OO.OOO\nㅤㅤ𐚁 ፧ㅤepic 899💎 ⨾ Rp 125.OOO\nㅤㅤ𐚁 ፧ㅤlightborn 1089💎 ⨾ Rp 148.OOO\nㅤㅤ𐚁 ፧ㅤpainted 188💎 ⨾ Rp 28.OOO\n\n     ⌇🌷 і𝗍ᥱm sһ᥆⍴ m᥆ᑲіᥣᥱ ᥣᥱgᥱᥒძs\nㅤㅤ𐚁 ፧ㅤchange name 239💎 ⨾ Rp 32.OOO\nㅤㅤ𐚁 ፧ㅤchange flag 300💎 ⨾ Rp 45.OOO\nㅤㅤ𐚁 ፧ㅤsquad rename 299💎 ⨾ Rp 42.OOO\nㅤㅤ𐚁 ፧ㅤsemua hero shop 599💎 ⨾ Rp 85.OOO\n\nεїз  ᥒ᥆𝗍ᥱ ᥎іᥲ gі𝖿𝗍 ⨾\n— ძᥱᥣᥲу 7/8 һᥲrі ⍴ᥱᥒgіrіmᥲᥒ\n— 𝗍ᥲᥒуᥲkᥲᥒ kᥱ𝗍ᥱrsᥱძіᥲᥲᥒᥒуᥲ\n— ᥙᑲᥲһ ᥒіᥴk? gᥲ sᥱᥒgᥲȷᥲ ᥙᥒ𝖿ᥣ? һᥲᥒgᥙs\n— ȷᥲᥒgᥲᥒ rᥱᥕᥱᥣ kᥲᥣ᥆ mᥲᥙ ᥴᥱ⍴ᥱ𝗍 ⍴ᥲkᥱ ძm",
@@ -7945,13 +7819,6 @@
       "image_url": "-"
    },
    {
-      "id": "120363130469627502@g.us",
-      "key": "format joki",
-      "response": "*FORMAT ORDER JOKI RANK LOGIN.*\nid ml :\nrank awal + bintang :\nrank akhir + bintang :\nlogin via : ( Montoon / Facebook )\nemail : \npassword : \nsistem joki : ( dimainkan / mabar )\nrequest hero :",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
       "id": "120363143957245741@g.us",
       "key": "am premium",
       "response": "*ALIGHT MOTION PREMIUM*\n\n🐣 SHARING\n- 1 bulan sharing 18.000\n- 1 tahun sharing 25.000\n\n🐣 PRIVATE\n- 1 bulan 45.000\n\n*note :*\n- sharing akun dari admin\n- dilarang utak-atik akun\n- private akun dari customer (berikut password nya - proses 30 menit, max 24 jam)\n- melanggar denda 200k❗❗❗",
@@ -7976,13 +7843,6 @@
       "id": "120363047023455100@g.us",
       "key": "dm vilog",
       "response": "*DIAMOND VILOG PLAY*\n\n 565    💎 : Rp 110.000\n 1155 💎 : Rp 210 .000\n 1765 💎 : Rp 310.000\n 2975 💎 : Rp 500.000\n 6000 💎 : Rp 980.000\n\n*Baca !!*\n• *Proses 1-3 jam max 5 Jam*\n• *Harga bisa berubah sewaktu-waktu tanpa pemberitahuan*\n• *Dimainkan 2-3 match RANK/CLASIC*\n• *Legal 99.99% With Invoice*\n• *Buy with risk bukan berarti ilegal karna payments punya pribadi*\n• *Diharapkan membaca   S&k*",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "gift skin",
-      "response": "\n*🍒... ৎ໑ Skin shop via gift.*\nrate gift skin shop 180, berteman selama 8hari.\n\nBasic 269💎 = \nBasic  299💎 = \nElite 399💎 = \nElite 599💎 = \nSpecial 749💎 = \nEpic 899 💎 = \nLightborn 1089💎 =",
       "isImage": false,
       "image_url": "-"
    },
@@ -8060,13 +7920,6 @@
       "id": "120363116348250536@g.us",
       "key": "starlight",
       "response": "💌 *starlight card via gift 𝐅𝐥𝐮𝐟𝐟𝐲 𝐒𝐭𝐨𝐫𝐞✿🐼* 💌\n*sl* 300💎 Rp 52.000\n*sl* 750💎 Rp 132.000\n📌slot terbatas. tanyakan stok terlebi dahulu",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "am prem",
-      "response": "*ALIGHT MOTION.*\n\n1 bulan = Rp 13.000\n1 tahun = Rp 22.000\n\n- akun dari admin.\n- private.\n-  selalu tanya stockm",
       "isImage": false,
       "image_url": "-"
    },
@@ -8477,25 +8330,11 @@
       "image_url": "-"
    },
    {
-      "id": "120363130469627502@g.us",
-      "key": "dm ff",
-      "response": "*DIAMOND FREE FIRE.*\n💎 50 = Rp 7.860\n💎 70 = Rp 9.900\n💎 100 = Rp 14.720\n💎 150 = Rp 21.080\n💎 200 = Rp 28.440\n💎 250 = Rp 34.800\n💎 300 = Rp 41.160\n💎 360 = Rp 47.520\n💎 375 = Rp 49.905\n💎 475 = Rp 63.830\n💎 500 = Rp 66.010\n💎 510 = Rp 68.600\n💎 565 = Rp 74.960\n💎 645 = Rp 86.295\n💎 655 = Rp 87.885\n💎 740 = Rp 96.630\n💎 790 = Rp 102.195\n💎 800 = Rp 206.785\n💎 930 = Rp 120.685\n💎 1000 = Rp 130.430\n💎 1050 = Rp 139.790\n💎 1060 = Rp 140.380\n💎 1075 = Rp 141.175\n💎 1200 = Rp 157.870\n💎 1300 = Rp 168.795\n💎 1490 = Rp 191.260\n💎 1580 = Rp 206.390\n💎 1800 = Rp 229.420\n💎 2000 = Rp 254.860\n💎 2180 = Rp 275.530\n💎 2720 = Rp 352.310\n💎 3640 = Rp 463.610\n💎 3800 = Rp 482.690\n💎 4340 = Rp 557.880\n💎 7290 = Rp 904.500\n\nMember Mingguan = Rp 28.500\nMember Bulan = Rp 83.500\nLevel Up Pass = Rp 16.500",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
       "id": "120363047023455100@g.us",
       "key": "s&k flash sale",
       "response": "S&k Flash Sale\n\n•Waktu penjualan Singkat, pastikan payment kamu selalu terisi ><\n\n•Item Flash sale prosesnya bisa fast & slow 5-30 menit max 24 jam\n\n•Ketika ada Flash Sale,kamu harus segera kirim format order ke admin (Stacie) bukan di grup whatsApp\n\n• Jika kamu dapat flash sale namun setelah 5 menit tidak melakukan pembayaran , maka flash sale tersebut hangus\n\n•Dalam Seminggu Pemenang Flash Sale hanya boleh Mendapatkan max 2,jadi bsa dpt flash sale lagi minggu depan\n\n• Dilarang Transfer uang ketika belum mendapat balasan/konfirmasi dari stacie",
       "isImage": false,
       "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "jaspin",
-      "response": "*JASA PINJAM QRIS.* \n\nRate qris jaspin 0,3%\n(jumlah tf + fee jaspin + rate qris = harga total) \n• max jaspin 350.000.",
-      "isImage": true,
-      "image_url": "https://telegra.ph/file/8c11fd33dee93c0106a34.jpg"
    },
    {
       "id": "120363047023455100@g.us",
@@ -8869,13 +8708,6 @@
       "image_url": "-"
    },
    {
-      "id": "120363130469627502@g.us",
-      "key": "roomtour",
-      "response": "*SEWA ROOMTOUR*\nharga untuk perteam yaitu : (10 orang)\n\n• perMATCH\n1 Match = Rp 30.000\n3 Match = Rp 80.000\n\n• perJAM\n(1 jam bisa untuk 2 match, masing-masing 30menit).\n1 Jam = Rp 50.000\n3 Jam = Rp 130.000\n\nkeuntungan :\n– unlock all skin & emblem max.",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
       "id": "120363047023455100@g.us",
       "key": "rumtur solo",
       "response": "ㅤㅤㅤᘏ⑅ᘏ ㅤ       \n       ꒰ ๑>ᴗ•๑ ꒱   \n ͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏┄─┄  ┄─┄  ┄─┄   \n *COMING SOON*",
@@ -9035,20 +8867,6 @@
       "response": "https://t.me/apkpremiumstacie\n\nAll APK prem & Liat harga disini.",
       "isImage": false,
       "image_url": "-"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "po kadita mpl",
-      "response": "*PREE ORDER SKIN KADITA MPL.*\n(rilis agustus, tanggal belum tau kapan, pree order bagi yg sabar aja).\nRp 70.000\n\n- via gift.\n- boleh dp with 50% awal, wajib lunas 1 minggu diitung after dp.\n- berteman 7hari.\n- dikirim sesuai antrian.\n- dilarang unf, ganti id, & ganti nick.",
-      "isImage": true,
-      "image_url": "https://telegra.ph/file/d49f13828b7ae1538406b.jpg"
-   },
-   {
-      "id": "120363130469627502@g.us",
-      "key": "po sanrio",
-      "response": "*PREE ORDER DM VIA LOGIN.*\nrilis 22 juli 2023.\n\n330💎 = Rp 60,000\n565💎 = Rp 90.000\n620💎 = Rp 100,000\n1210💎 = Rp 165,000\n1820💎 = Rp 268,000\n2435💎 = Rp 356,000\n3030💎 = Rp 450,000\n6055💎 = Rp 710.000\n12.055💎 = Rp 1.500.000\n\n*PAKET VILOG HEMAT ONLY.*\n275💎 + Wdp vilog = Rp 61.000\nWeekly vilog 3x = Rp 50.000\n275💎 + elite bundle = Rp 60.000\n\n- s&k dibaca, no komplain.\n- wajib lunas no dp.\n- bersedia nambah, jika sewaktu harga vilog naik.",
-      "isImage": true,
-      "image_url": "https://telegra.ph/file/c27fe346c21e3f9658f9f.jpg"
    },
    {
       "id": "120363029312426085@g.us",
@@ -9235,7 +9053,7 @@
    {
       "id": "120363044639883017@g.us",
       "key": "hdi",
-      "response": "Price list HDI\n\n100M - 7K                 600M - 38K\n200M - 14K               700M - 45K\n300M - 20K               800M - 50K\n400M - 26K               900M - 56K\n500M - 32K               1B - 60K\n\nBongkar\n54-55K /B\n\nPayment \nDana | shopay | bca | seabank | qris\n\nLink grup\nhttps://chat.whatsapp.com/LcOzOWaUFysDhZFt4cLlHz",
+      "response": "List HDI\n\n100M - 7K                 600M - 38K\n200M - 14K               700M - 44K\n300M - 20K               800M - 50K\n400M - 26K               900M - 56K\n500M - 32K               1B - 60K\n\nBongkar\n54-55K /B\n\nToko :\n• shoope : SabanStore17\n• Bukalapak : SabanStore\n\nhttp://wa.me/6288975982711\n\nLink grup\nhttps://chat.whatsapp.com/LcOzOWaUFysDhZFt4cLlHz",
       "isImage": false,
       "image_url": "-"
    },
@@ -9280,5 +9098,26 @@
       "response": "*⪧ ⑅ ׁ 🪡🍓 ✩ coins webtoon via login*\n\n230 + 5 coins Rp 3O.OOO\n428 + 20 coins Rp 58.OOO\n1046 + 75 coins Rp 15O.OOO\n1375 + 105 coins Rp 2OO.OOO\n1638 + 129 coins Rp 23O.OOO",
       "isImage": false,
       "image_url": "-"
+   },
+   {
+      "id": "120363130469627502@g.us",
+      "key": "ml a",
+      "response": "*DIAMOND MLBB A*\n_proses 1 - 20 menit after payment, legal, tapi semua kembali atas kebijakan montoon._\n```86💎 (78 + 8) = Rp 20.000\n172💎 (156 + 16) =  Rp 40.000\n257💎 (234 + 23) = Rp 59.500\n344💎 (312 + 32) =  Rp79.000\n429💎 (390 + 39) = Rp97.000\n514💎 (468 + 46) = Rp118.000\n600💎 (546 + 54) = Rp137.200\n706💎 (625 + 81) = Rp158.700\n878💎 (791 + 97) = Rp198.200\n963💎 (923 + 40) = Rp218.300\n1050💎 (940 + 110) = Rp238.300\n1220💎 (1093 + 127) = Rp277.400\n1412💎 (1250 + 162) = Rp314.400\n2195💎 (1860 + 335) = Rp476.700\n3688💎 (3099 + 589) = Rp792.200\n5532💎 (4649 + 883) = Rp1.161.680\n6238💎 (5274 + 964) = Rp1.310.108\n9288💎 (7740 + 1548) = Rp2.100.800```",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363130469627502@g.us",
+      "key": "ml b",
+      "response": " *DIAMOND MLBB B.*\n_proses 1 - 30 menit after payment, legal tapi semua kembali atas kebijakan montoon._\n```14💎 (13 + 1) = Rp 4.600\n28💎 (26 + 2) = Rp 8.400\n42💎 (38 + 4) = Rp 11.500\n56💎 (51 + 5) = Rp 15.500\n70💎 (64 + 6) = Rp 18.000\n112💎 (102 + 10) = Rp 27.800\n140💎 (127 + 13) = Rp 34.000\n210💎 (191 + 19) = Rp 49.000\n284💎 (254 + 30) = Rp 66.000\n355💎 (317 + 38) = Rp 80.000\n425💎 (383 + 46) = Rp 96.500\n568💎 (508 + 60) = Rp 128.500\n639💎 (571 + 68) = Rp 147.500\n716💎 (633 + 83) = Rp 168.000\n856💎 (760 + 96) = Rp 208.100\n926💎 (824 + 102) = Rp 213.600\n1000💎 (887 + 113) = Rp 230.500```",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363130469627502@g.us",
+      "key": "payment",
+      "response": "⚠️ *PAYMENT WIKU ONLY.* ⚠️\n• Qris scan luar dana QR di PP group. (fee 0,4%)\n• Scan dana Qris TOKO WIKUKI. (no fee)\n_(semua atas nama CA/NCS/J)._\n\nNomor E-wallet : (dana fee 100p)\n081228811510 (dana, ovo, gopay, spay).\n\nBank :\n105453787692 (Jago).\n\nE-wallet cadangan :\nhttps://link.dana.id/qr/y5lrg78l (dana).",
+      "isImage": true,
+      "image_url": "https://telegra.ph/file/5443683e7fc98e7537c66.jpg"
    }
 ]
