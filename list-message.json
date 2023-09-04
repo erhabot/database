@@ -4818,7 +4818,7 @@
    {
       "id": "120363042125338616@g.us",
       "key": "aov",
-      "response": "Arena Of Valor\nVIA ID\nPROSES 1-15 MENIT\n40 Vc 13.042\n90 Vc 22.084\n230 Vc 49.210\n320 Vc 68.294\n470 Vc 97.420\n700 Vc 141.630\n950 Vc 187.840\n1180 Vc 237.050\n1430 Vc 282.260\n1900 Vc 373.680\n2390 Vc 462.100\n4800 vc 979.500\n24050 vc 4.946.900\n48200 vc 9.825.400",
+      "response": " *Arena Of Valor*\nVIA ID\nPROSES 1-15 MENIT\n18 Vc 7.500\n40 Vc 10.000\n90 Vc 19.000\n230 Vc 45.000\n470 Vc 90.000\n950 Vc 182.000\n1430 Vc 270.000\n2390 Vc 450.000\n4800 vc 900.000\n24050 vc 4.520.000\n48200 vc 9.140.000",
       "isImage": false,
       "image_url": "-"
    },
@@ -9053,7 +9053,7 @@
    {
       "id": "120363029312426085@g.us",
       "key": "mla",
-      "response": "```DIAMOND MLBB VIA ID\nProses 5 - 45 menit\nMaksimal 1 x 24 jam jika web eror\n\n• 86    💎  : Rp 20.000\n• 172   💎  : Rp 39.000\n• 257   💎  : Rp 59.000\n• 344   💎  : Rp 77.500\n• 429   💎  : Rp 96.000\n• 514   💎  : Rp 115.000\n• 600   💎  : Rp 135.000\n• 706   💎  : Rp 156.000\n• 878   💎  : Rp 195.500\n• 963   💎  : Rp 212.000\n\n• 1050 💎  : Rp 233.000\n• 1220 💎  : Rp 270.000\n• 1412 💎  : Rp 315.000\n• 2195 💎  : Rp 465.500\n• 2539 💎  : Rp 545.000\n• 3688 💎  : Rp 769.000\n• 4394 💎  : Rp 925.000\n\n• 5532 💎  : Rp 1.155.000\n• 6234 💎  : Rp 1.308.500\n\nWEEKLY DIAMOND Rp. 26.000\n(Terhitung misi 100)\n\nTwilight Pass Rp. 117.000```",
+      "response": "```DIAMOND MLBB VIA ID\nProses 5 - 45 menit\nMaksimal 1 x 24 jam jika web eror\n\n• 86    💎  : Rp 20.000\n• 172   💎  : Rp 39.000\n• 257   💎  : Rp 59.000\n• 344   💎  : Rp 77.500\n• 429   💎  : Rp 96.000\n• 514   💎  : Rp 115.000\n• 600   💎  : Rp 133.000\n• 706   💎  : Rp 156.000\n• 878   💎  : Rp 193.000\n• 963   💎  : Rp 212.000\n\n• 1050 💎  : Rp 233.000\n• 1220 💎  : Rp 270.000\n• 1412 💎  : Rp 310.000\n• 2195 💎  : Rp 465.500\n• 2539 💎  : Rp 545.000\n• 3688 💎  : Rp 772.000\n• 4394 💎  : Rp 925.000\n\n• 5532 💎  : Rp 1.155.000\n• 6234 💎  : Rp 1.308.500\n• 9288 💎  : Rp 1.925.000\n\nWEEKLY DIAMOND Rp. 26.000\n(Terhitung misi 100)\n\nTwilight Pass Rp. 117.000```",
       "isImage": false,
       "image_url": "-"
    },
@@ -9201,6 +9201,20 @@
       "id": "120363143957245741@g.us",
       "key": "border airplane",
       "response": "*BORDER AIRPLANE*\n\nTANPA BONUS :\n🍒 Rp 1.050.000\n\nBONUS 1000💎 :\n🍒 Rp 1.250.000\n\n*note :*\n- via login\n- tidak bisa request gift\n- play classic 3-5 match (supaya tidak terdeteksi kecurigaan oleh moonton) \n- proses max 24 jam\n- no worker, aku sendiri yg proses\n- harap matikan verifikasi",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363143957245741@g.us",
+      "key": "spin hemat neobeast",
+      "response": "*SPIN HEMAT NEOBEAST BY MEEQO STORE*",
+      "isImage": true,
+      "image_url": "https://telegra.ph/file/343e9b4dff84832037408.jpg"
+   },
+   {
+      "id": "120363030193752627@g.us",
+      "key": "aov",
+      "response": " *Arena Of Valor*\nVIA ID\nPROSES 1-15 MENIT\n18 Vc 7.500\n40 Vc 10.000\n90 Vc 19.000\n230 Vc 45.000\n470 Vc 90.000\n950 Vc 182.000\n1430 Vc 270.000\n2390 Vc 450.000\n4800 vc 900.000\n24050 vc 4.520.000\n48200 vc 9.140.000",
       "isImage": false,
       "image_url": "-"
    }
