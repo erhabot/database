@@ -6659,7 +6659,7 @@
    {
       "id": "120363143957245741@g.us",
       "key": "payment",
-      "response": "*PAYMENT*\n\n🐣 Dana : 0895322145253 - D O\n- Dana ke dana +100\n- mbanking ke dana +500\n- brilink ke dana +1000\n\n🐣 Ovo : 082183829607 - D O\n- mbanking ke ovo +1500\n- Alfa/Indo ke ovo minta kode pembayaran ke admin\n\n🐣 Gopay : 0895322145253 - Z D\n- mbanking ke gopay +1000\n\n🐣 Shopeepay : 0895322145253 - Z D\n- mbanking ke shopeepay +1000\n- Alfa/Indo ke shopeepay minta kode pembayaran ke admin",
+      "response": "*PAYMENT*\n\n🐣 Dana : 082183829607 - D O\n- Dana ke dana +100\n- mbanking ke dana +500\n- brilink ke dana +1000\n\n🐣 Ovo : 082183829607 - D O\n- mbanking ke ovo +1500\n- Alfa/Indo ke ovo minta kode pembayaran ke admin\n\n🐣 Gopay : 0895322145253 - Z D\n- mbanking ke gopay +1000\n\n🐣 Shopeepay : 0895322145253 - Z D\n- mbanking ke shopeepay +1000\n- Alfa/Indo ke shopeepay minta kode pembayaran ke admin",
       "isImage": false,
       "image_url": "-"
    },
@@ -9030,32 +9030,11 @@
       "image_url": "-"
    },
    {
-      "id": "120363143957245741@g.us",
-      "key": "spin hemat neobeast",
-      "response": "*SPIN HEMAT NEOBEAST BY MEEQO STORE*",
-      "isImage": true,
-      "image_url": "https://telegra.ph/file/343e9b4dff84832037408.jpg"
-   },
-   {
       "id": "120363030193752627@g.us",
       "key": "aov",
       "response": " *Arena Of Valor*\nVIA ID\nPROSES 1-15 MENIT\n18 Vc 7.500\n40 Vc 10.000\n90 Vc 19.000\n230 Vc 45.000\n470 Vc 90.000\n950 Vc 182.000\n1430 Vc 270.000\n2390 Vc 450.000\n4800 vc 900.000\n24050 vc 4.520.000\n48200 vc 9.140.000",
       "isImage": false,
       "image_url": "-"
-   },
-   {
-      "id": "120363143957245741@g.us",
-      "key": "spin hemat neobeast 2",
-      "response": "*SPIN HEMAT NEOBEAST LYLIA & FREDRIN*",
-      "isImage": true,
-      "image_url": "https://telegra.ph/file/850d7f4934db6fe60472a.jpg"
-   },
-   {
-      "id": "120363143957245741@g.us",
-      "key": "tiket neobeast",
-      "response": "*TIKET MISI TOP UP NEOBEAST*",
-      "isImage": true,
-      "image_url": "https://telegra.ph/file/3cbecd98f8aa63615280a.jpg"
    },
    {
       "id": "120363030193752627@g.us",
