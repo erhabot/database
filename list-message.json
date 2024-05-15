@@ -11779,5 +11779,12 @@
       "response": "*TAMZ PAYMENT*\n\ne-wallet : \n       ⌕ bank BCA =\n               7635471425\n       ⌕ bank BTPN =\n              90140291407\n       ⌕ qris all payment =\n               _minta admin_\n       ⌕ gopay, dana, spay = \n             089602604855\n\n⌕ dana =  \nhttps://link.dana.id/qr/dy98c2o0\n⌕ spay =\n https://wsa.wallet.airpay.co.id/qr/00daede20d452cf141e0 \n\nlainnya ⨾\n> ⌕ qris ≫ no fee\n> ⌕ transfer bank ≫ dana +500 \n> ⌕ transfer bank ≫ spay +1.000",
       "isImage": false,
       "image_url": "-"
+   },
+   {
+      "id": "14165581025-1574540031@g.us",
+      "key": "1",
+      "response": "js",
+      "isImage": false,
+      "image_url": "-"
    }
 ]
