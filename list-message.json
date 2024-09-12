@@ -11643,7 +11643,7 @@
    {
       "id": "120363323856397839@g.us",
       "key": "daftar sisa match",
-      "response": "\nsisa match cust:\nReza :4\nTiya :1\nShouza : 9999\nTaiyoo : 12\nucup : 38\nyora : 10\nwencen : 16",
+      "response": "\nsisa match cust:\nReza :4\nTiya :1\nShouza : 9999\nTaiyoo : 11\nucup : 35\nyora : 10\nwencen : 16",
       "isImage": false,
       "image_url": "-"
    },
@@ -11810,17 +11810,10 @@
    },
    {
       "id": "120363114783559507@g.us",
-      "key": "jadwal piket",
-      "response": "Jadwal Piket",
-      "isImage": true,
-      "image_url": "https://raw.githubusercontent.com/erhabot/uploader/main/1725939756787.jpg"
-   },
-   {
-      "id": "120363114783559507@g.us",
       "key": "jadwal shift",
-      "response": "Jadwal Shift",
+      "response": "jadwal shift",
       "isImage": true,
-      "image_url": "https://raw.githubusercontent.com/erhabot/uploader/main/1725940046514.jpg"
+      "image_url": "https://raw.githubusercontent.com/erhabot/uploader/main/1726134699672.jpg"
    },
    {
       "id": "120363114783559507@g.us",
@@ -11835,5 +11828,12 @@
       "response": "*CHANGE NICK SEASON*\n\n🌼 52💎 = Rp 18.000\n- di isi mengikuti misi",
       "isImage": false,
       "image_url": "-"
+   },
+   {
+      "id": "120363114783559507@g.us",
+      "key": "jadwal piket",
+      "response": "Jadwal piket",
+      "isImage": true,
+      "image_url": "https://raw.githubusercontent.com/erhabot/uploader/main/1726131350692.jpg"
    }
 ]
