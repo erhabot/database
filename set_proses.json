@@ -5,7 +5,7 @@
    },
    {
       "id": "14165581025-1574540031@g.us",
-      "text": "「 *STATUS PESANAN* 」\n\n```TANGGAL : @hari,@tanggal/@bulan/@tahun```\n```JAM     : @jam```\n```PESANAN : @pesanan```\n```STATUS  : ⏳PROSES```\n\nHARAP TUNGGU @@nama\n*PESANAN SEDANG DIPROSES*"
+      "text": "@grup\n\nTanggal = @hari, @tanggal/@bulan/@tahun\nWaktu = @jam\nPesanan = @pesanan\n\nTerimakasih @@nama telah order"
    },
    {
       "id": "120363130469627502@g.us",
