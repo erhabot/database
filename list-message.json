@@ -12934,5 +12934,19 @@
       "response": "*FORMAT ROOM TOUR*\n\nID + server + nick : \nTanggal :\nJam : \nJumlah : \nBan : \nWhatsApp : \n\n📌 _Rules_\n･↝ Setiap 1 match = 30 menit\n･↝ Login wajib 5 menit sebelum match\n･↝ waktu habis = *WAJIB SURREND*‼️",
       "isImage": false,
       "image_url": "-"
+   },
+   {
+      "id": "120363154146071489@g.us",
+      "key": "drama box",
+      "response": "*DRAMA BOX*\n\n🌼 Sharing\n- 1 bulan = Rp 14.000",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363170205658789@g.us",
+      "key": "drama box",
+      "response": "*DRAMA BOX*\n\n🌼 Sharing\n- 1 bulan = Rp 17.000",
+      "isImage": false,
+      "image_url": "-"
    }
 ]
