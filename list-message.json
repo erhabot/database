@@ -12927,5 +12927,12 @@
       "response": "Untuk mengupdate Node.js ke versi 20.18.1 di Ubuntu, Anda dapat mengikuti langkah-langkah berikut:\n\n### Metode 1: Menggunakan Node Version Manager (NVM)\n\n1. **Install NVM (Jika belum terpasang)**:\n   Jika Anda belum menginstal NVM, Anda dapat menginstalnya dengan perintah berikut:\n\n   ```bash\n   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash\n   ```\n\n   Setelah itu, muat NVM ke dalam terminal Anda:\n\n   ```bash\n   export NVM_DIR=\"$HOME/.nvm\"\n   [ -s \"$NVM_DIR/nvm.sh\" ] && \\. \"$NVM_DIR/nvm.sh\" # This loads nvm\n   ```\n\n   Anda juga bisa menambahkan baris di atas ke file `~/.bashrc` atau `~/.bash_profile` untuk memuat NVM secara otomatis di setiap sesi terminal.\n\n2. **Install Node.js versi 20.18.1**:\n   Setelah NVM terpasang, Anda dapat menginstal versi Node.js yang diinginkan dengan perintah:\n\n   ```bash\n   nvm install 20.18.1\n   ```\n\n3. **Set Node.js versi default (opsional)**:\n   Jika Anda ingin menjadikan versi ini sebagai versi default, gunakan perintah:\n\n   ```bash\n   nvm alias default 20.18.1\n   ```\n\n4. **Verifikasi instalasi**:\n   Anda dapat memverifikasi bahwa Node.js telah diperbarui dengan perintah:\n\n   ```bash\n   node -v\n   ```\n\n### Metode 2: Menggunakan PPA (Personal Package Archive)\n\n1. **Update daftar paket**:\n   Pertama, perbarui daftar paket sistem Anda:\n\n   ```bash\n   sudo apt update\n   ```\n\n2. **Install Node.js dari PPA**:\n   Anda dapat menggunakan PPA resmi untuk Node.js. Pertama, tambahkan PPA:\n\n   ```bash\n   curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -\n   ```\n\n   Kemudian, instal Node.js:\n\n   ```bash\n   sudo apt install -y nodejs\n   ```\n\n3. **Verifikasi instalasi**:\n   Cek versi Node.js untuk memastikan bahwa Anda telah menginstal versi yang benar:\n\n   ```bash\n   node -v\n   ```\n\n### Catatan\n- Pastikan Anda memiliki akses administrator (sudo) untuk menjalankan perintah yang memerlukan hak akses tersebut.\n- Jika Anda menggunakan NVM, Anda tidak perlu menggunakan PPA, karena NVM mengelola versi Node.js secara terpisah.\n\nDengan mengikuti langkah-langkah di atas, Anda seharusnya dapat memperbarui Node.js ke versi 20.18.1 di Ubuntu.",
       "isImage": false,
       "image_url": "-"
+   },
+   {
+      "id": "14165581025-1574540031@g.us",
+      "key": "qr15k",
+      "response": "¯\\_(ツ)_/¯",
+      "isImage": false,
+      "image_url": "-"
    }
 ]
