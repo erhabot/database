@@ -13291,5 +13291,12 @@
       "response": "*JASA TUKAR SALDO*\n\n🌼 TRANSFER\n\n1.000 - 14.999: Rp 300\n\n15.000 - 99.000: Rp 600\n\n100.000 - 199.000: Rp 800\n\n200.000 - 299.000: Rp1000\n\n300.000 - 499.000: Rp1800\n\n500.000 - 799.000: Rp2800\n\n🌼 NON PREM via QRIS\n\n1.000 - 14.999: Rp 500\n\n15.000 - 99.000 : Rp 1.000\n\n100.000 - 199.000 : Rp 2.000\n\n200.000 - 299.000: Rp 3.000\n\n300.000 - 399.000: Rp 4.000\n\n400.000 - 499.000: Rp 5.000",
       "isImage": false,
       "image_url": "-"
+   },
+   {
+      "id": "120363154146071489@g.us",
+      "key": "sq verif",
+      "response": "*`SEWA SQUAD VERIF`*\n\n_tanyakan stock sebelum order_\n\n3 Hari : 27.000\n7 Hari : Rp 37.000\n14 Hari : Rp 52.000\n30 Hari : Rp 80.000",
+      "isImage": false,
+      "image_url": "-"
    }
 ]
