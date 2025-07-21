@@ -1,0 +1,52 @@
+{
+  "users": {
+    "6289507071993@s.whatsapp.net": {
+      "registered": false,
+      "lastChat": 1753118350000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "6281260900707@s.whatsapp.net": {
+      "name": "W a N",
+      "registered": false,
+      "lastChat": 1753118712000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    }
+  },
+  "groups": {
+    "14165581025-1574540031@g.us": {
+      "name": "RH BOT SINCE 2019",
+      "lastChat": 1753118428663,
+      "ephemeral": 86400,
+      "mute": false,
+      "antilink": false,
+      "welcome": false,
+      "detect": false,
+      "exit": false
+    }
+  },
+  "setting": {
+    "firstchat": false,
+    "readstory": false,
+    "reactstory": false,
+    "autoread": true,
+    "self": false,
+    "limit": {
+      "free": 15,
+      "prem": 100,
+      "own": 9999,
+      "reset": "00:00"
+    }
+  }
+}
