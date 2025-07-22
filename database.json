@@ -2,7 +2,7 @@
   "users": {
     "6289507071993@s.whatsapp.net": {
       "registered": false,
-      "lastChat": 1753199049000,
+      "lastChat": 1753200961000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -15,7 +15,7 @@
     "6281260900707@s.whatsapp.net": {
       "name": "W a N",
       "registered": false,
-      "lastChat": 1753200700000,
+      "lastChat": 1753205204000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -43,7 +43,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 12,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -103,7 +103,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -139,7 +139,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -283,7 +283,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 13,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -295,7 +295,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -367,7 +367,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 13,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -391,7 +391,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 13,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -427,7 +427,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -451,7 +451,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 13,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -499,7 +499,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 13,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -595,7 +595,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -619,7 +619,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 4,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -687,7 +687,7 @@
     "6285339040662@s.whatsapp.net": {
       "name": "bleurovin",
       "registered": false,
-      "lastChat": 1753188667000,
+      "lastChat": 1753204428000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -811,7 +811,19 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 13,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "6289526955864@s.whatsapp.net": {
+      "name": "ryan",
+      "registered": false,
+      "lastChat": 1753204627000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
