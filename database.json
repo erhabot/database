@@ -15,12 +15,12 @@
     "6281260900707@s.whatsapp.net": {
       "name": "W a N",
       "registered": false,
-      "lastChat": 1753436401000,
+      "lastChat": 1753441160000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
       "limit": 15,
-      "exp_prem": 9998,
+      "exp_prem": 19996,
       "premium": false,
       "banned": false
     },
@@ -63,7 +63,7 @@
     "62895322145253@s.whatsapp.net": {
       "name": "Piyoo",
       "registered": false,
-      "lastChat": 1753431906000,
+      "lastChat": 1753439963000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -147,7 +147,7 @@
     "6289699548825@s.whatsapp.net": {
       "name": "Segumpal Zenn",
       "registered": false,
-      "lastChat": 1753415594000,
+      "lastChat": 1753436859000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -7263,7 +7263,7 @@
     "6282214621492@s.whatsapp.net": {
       "name": "! pannmaru",
       "registered": false,
-      "lastChat": 1753422596000,
+      "lastChat": 1753439600000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -9412,6 +9412,18 @@
       "name": "aurelst",
       "registered": false,
       "lastChat": 1753435005000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "6285888112841@s.whatsapp.net": {
+      "name": "xenn",
+      "registered": false,
+      "lastChat": 1753437215000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
