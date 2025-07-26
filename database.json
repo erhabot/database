@@ -2,7 +2,7 @@
   "users": {
     "6289507071993@s.whatsapp.net": {
       "registered": false,
-      "lastChat": 0,
+      "lastChat": 1753561120000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -15,7 +15,7 @@
     "6281260900707@s.whatsapp.net": {
       "name": "W a N",
       "registered": false,
-      "lastChat": 1753551559000,
+      "lastChat": 1753564803000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -171,7 +171,7 @@
     "6285336501104@s.whatsapp.net": {
       "name": "kung pemula",
       "registered": false,
-      "lastChat": 1753482631000,
+      "lastChat": 1753555798000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -7227,7 +7227,7 @@
     "6281215427240@s.whatsapp.net": {
       "name": "niaa",
       "registered": false,
-      "lastChat": 1753502028000,
+      "lastChat": 1753555349000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -10439,6 +10439,30 @@
       "exp_prem": 0,
       "premium": false,
       "banned": false
+    },
+    "62811584223@s.whatsapp.net": {
+      "name": ".",
+      "registered": false,
+      "lastChat": 1753557540000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "6285668822958@s.whatsapp.net": {
+      "name": "rienn",
+      "registered": false,
+      "lastChat": 1753562266000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
     }
   },
   "groups": {
@@ -10496,6 +10520,16 @@
       "name": "OPEN || RH STORE✅",
       "lastChat": 1753186767667,
       "ephemeral": 86400,
+      "mute": false,
+      "antilink": false,
+      "welcome": false,
+      "detect": false,
+      "exit": false
+    },
+    "120363409701649943@g.us": {
+      "name": "ATMOSPHERE V2 - Cloud , Vcc and All Premium App",
+      "lastChat": 1753561120667,
+      "ephemeral": 0,
       "mute": false,
       "antilink": false,
       "welcome": false,
