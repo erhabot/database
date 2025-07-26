@@ -15,7 +15,7 @@
     "6281260900707@s.whatsapp.net": {
       "name": "W a N",
       "registered": false,
-      "lastChat": 1753529850000,
+      "lastChat": 1753534909000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -63,7 +63,7 @@
     "62895322145253@s.whatsapp.net": {
       "name": "Piyoo",
       "registered": false,
-      "lastChat": 1753521048000,
+      "lastChat": 1753534984000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -159,7 +159,7 @@
     "6283192218124@s.whatsapp.net": {
       "name": "chika @skaipigame",
       "registered": false,
-      "lastChat": 1753527294000,
+      "lastChat": 1753534558000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -363,7 +363,7 @@
     "6285814839356@s.whatsapp.net": {
       "name": "glesy pemula",
       "registered": false,
-      "lastChat": 1753510895000,
+      "lastChat": 1753530268000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -783,7 +783,7 @@
     "62819640325@s.whatsapp.net": {
       "name": "tamzokkotsu",
       "registered": false,
-      "lastChat": 1753526342000,
+      "lastChat": 1753534621000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -879,7 +879,7 @@
     "6285807114757@s.whatsapp.net": {
       "name": "Skyline.",
       "registered": false,
-      "lastChat": 1753368158000,
+      "lastChat": 1753535009000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -999,7 +999,7 @@
     "6282339859936@s.whatsapp.net": {
       "name": "adel kebab",
       "registered": false,
-      "lastChat": 1753246926000,
+      "lastChat": 1753533018000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -1059,11 +1059,11 @@
     "6285171723760@s.whatsapp.net": {
       "name": "jvrzy",
       "registered": false,
-      "lastChat": 1753256440000,
+      "lastChat": 1753532963000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 15,
+      "limit": 14,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -7191,7 +7191,7 @@
     "6282374997700@s.whatsapp.net": {
       "name": "Alexandra",
       "registered": false,
-      "lastChat": 1753496169000,
+      "lastChat": 1753531901000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -10388,6 +10388,18 @@
       "afk_reason": "",
       "money": 0,
       "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "6282312602561@s.whatsapp.net": {
+      "name": "bakwan jagung",
+      "registered": false,
+      "lastChat": 1753534635000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 14,
       "exp_prem": 0,
       "premium": false,
       "banned": false
