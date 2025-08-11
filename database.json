@@ -2,7 +2,7 @@
   "users": {
     "6289507071993@s.whatsapp.net": {
       "registered": false,
-      "lastChat": 1754910439000,
+      "lastChat": 1754936462000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -1047,11 +1047,11 @@
     "6285894236355@s.whatsapp.net": {
       "name": "vinn.",
       "registered": false,
-      "lastChat": 1754374996000,
+      "lastChat": 1754936461000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 15,
+      "limit": 14,
       "exp_prem": 0,
       "premium": false,
       "banned": false
