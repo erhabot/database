@@ -15,7 +15,7 @@
     "6281260900707@s.whatsapp.net": {
       "name": "W a N",
       "registered": false,
-      "lastChat": 1755413585000,
+      "lastChat": 1755415830000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -12951,7 +12951,7 @@
     "71494243737701@lid": {
       "name": null,
       "registered": false,
-      "lastChat": 1755408098000,
+      "lastChat": 1755418098000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -13071,7 +13071,7 @@
     "50779918446827@lid": {
       "name": null,
       "registered": false,
-      "lastChat": 1755413454000,
+      "lastChat": 1755416926000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -13503,7 +13503,7 @@
     "238001586208956@lid": {
       "name": null,
       "registered": false,
-      "lastChat": 1755407913000,
+      "lastChat": 1755414272000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -13611,7 +13611,7 @@
     "17468085018756@lid": {
       "name": null,
       "registered": false,
-      "lastChat": 1755411491000,
+      "lastChat": 1755415609000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -14199,7 +14199,7 @@
     "87355541184619@lid": {
       "name": null,
       "registered": false,
-      "lastChat": 1754139603000,
+      "lastChat": 1755415607000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -14487,7 +14487,7 @@
     "267250548404359@lid": {
       "name": null,
       "registered": false,
-      "lastChat": 1755411464000,
+      "lastChat": 1755416571000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -15471,7 +15471,7 @@
     "38435813326992@lid": {
       "name": null,
       "registered": false,
-      "lastChat": 1755413667000,
+      "lastChat": 1755418569000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -20018,7 +20018,7 @@
     "169350912852092@lid": {
       "name": "fine",
       "registered": false,
-      "lastChat": 1755391808000,
+      "lastChat": 1755416629000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -20030,7 +20030,7 @@
     "260558486003890@lid": {
       "name": "p",
       "registered": false,
-      "lastChat": 1755410234000,
+      "lastChat": 1755414705000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -20078,7 +20078,7 @@
     "131052756545724@lid": {
       "name": "ㅤ",
       "registered": false,
-      "lastChat": 1755410245000,
+      "lastChat": 1755417169000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -20102,7 +20102,7 @@
     "169845085720725@lid": {
       "name": "Steven Dilexi",
       "registered": false,
-      "lastChat": 1755409332000,
+      "lastChat": 1755415390000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -20114,7 +20114,7 @@
     "153919011426553@lid": {
       "name": "𝓇𝒶 - 𝒶𝓃𝒶𝓈",
       "registered": false,
-      "lastChat": 1755410033000,
+      "lastChat": 1755416460000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -27662,7 +27662,7 @@
     "56435920621648@lid": {
       "name": "Aldhi 8A",
       "registered": false,
-      "lastChat": 1755405001000,
+      "lastChat": 1755418475000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -28087,6 +28087,101 @@
       "afk_reason": "",
       "money": 0,
       "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "183485381771395@lid": {
+      "name": "A",
+      "registered": false,
+      "lastChat": 1755414798000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "22239995003131@lid": {
+      "name": "21424_Muh. Nabil Rizqi Pr",
+      "registered": false,
+      "lastChat": 1755417394000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "175570059001902@lid": {
+      "name": "miwaaa",
+      "registered": false,
+      "lastChat": 1755416260000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "126259287871674@lid": {
+      "name": "zebrina",
+      "registered": false,
+      "lastChat": 1755416468000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "77142008303778@lid": {
+      "registered": false,
+      "lastChat": 1755417146000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "141918805729421@lid": {
+      "name": "yak",
+      "registered": false,
+      "lastChat": 1755417851000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "264098277277698@lid": {
+      "name": "org",
+      "registered": false,
+      "lastChat": 1755418038000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "59266874474723@lid": {
+      "name": "sasyaa",
+      "registered": false,
+      "lastChat": 1755418138000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 14,
       "exp_prem": 0,
       "premium": false,
       "banned": false
