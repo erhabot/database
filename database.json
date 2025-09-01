@@ -15,12 +15,12 @@
     "6281260900707@s.whatsapp.net": {
       "name": "W a N",
       "registered": false,
-      "lastChat": 1756752979000,
+      "lastChat": 1756755652000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
       "limit": 15,
-      "exp_prem": 707,
+      "exp_prem": 10705,
       "premium": true,
       "banned": false
     },
@@ -29234,7 +29234,7 @@
       "name": "RH BOT SINCE 2019",
       "lastChat": 1753118428663,
       "ephemeral": 86400,
-      "mute": true,
+      "mute": false,
       "antilink": true,
       "welcome": true,
       "detect": false,
