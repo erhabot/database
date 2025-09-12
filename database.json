@@ -15,7 +15,7 @@
     "6281260900707@s.whatsapp.net": {
       "name": "W a N",
       "registered": false,
-      "lastChat": 1757625229000,
+      "lastChat": 1757644391000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -159,7 +159,7 @@
     "6283192218124@s.whatsapp.net": {
       "name": "chika @skaipigame",
       "registered": false,
-      "lastChat": 1757491913000,
+      "lastChat": 1757644233000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -6807,7 +6807,7 @@
     "6282123807322@s.whatsapp.net": {
       "name": "Re",
       "registered": false,
-      "lastChat": 1757587507000,
+      "lastChat": 1757631327000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -17474,11 +17474,11 @@
     "6283162306600@s.whatsapp.net": {
       "name": "ㅤ",
       "registered": false,
-      "lastChat": 1757598646000,
+      "lastChat": 1757639954000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 15,
+      "limit": 14,
       "exp_prem": 304939,
       "premium": false,
       "banned": false
@@ -29775,7 +29775,8 @@
       "antilink": false,
       "welcome": true,
       "detect": false,
-      "exit": false
+      "exit": false,
+      "antitagsw": false
     },
     "120363170205658789@g.us": {
       "name": "🎀 𝗝𝗨𝗔𝗟𝗔𝗡 𝗣𝗜𝗬𝗢𝗢𝗞𝗞𝗞 🎀 | SLOW RESPON",
