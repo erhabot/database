@@ -11109,13 +11109,6 @@
       "image_url": "-"
    },
    {
-      "id": "120363170205658789@g.us",
-      "key": "youku",
-      "response": "*YOUKU*\n\n🌼 SHARING\n- 1 bulan = Rp 19.000\n\n🌼 PRIVATE\n- 1 bulan = Rp 43.000",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
       "id": "120363323856397839@g.us",
       "key": "daftar sisa match",
       "response": "sisa match cust:\nReza :4\nTiya :1\nShouza : 9999\nTaiyoo : 11\nucup : 35\nyora : 10\nwencen : 16",
@@ -11278,13 +11271,6 @@
    },
    {
       "id": "120363154146071489@g.us",
-      "key": "loklok",
-      "response": "*LOKLOK*\n\n🌼 SHARING\n- 1 bulan = Rp 15.000\n- 3 bulan = Rp 25.000",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363154146071489@g.us",
       "key": "netflix",
       "response": "TIDAK UNTUK IOS SEMENTARA ❌❌❌\n\nHanya untuk andro/laptop/tv\n(tab & laptop login via web sering susah login, rekomendasi terbaik sekarang play di tv & andro) \n\n *NETFLIX*\n \n🌼 PRIVATE\n- 1 bulan = Rp 30.000\n- 2 bulan = Rp 60.000 \n- 3 bulan = Rp 90.000 \n\n🌼 SHARING\n- 1 bulan = Rp 20.000\n- 2 bulan = Rp 40.000\n- 3 bulan = Rp 60.000 \n(sharing dengan pengguna lain, tapi tetap login 1 device)\n \n🌼 HARIAN\n- 1 HARI = Rp 4.000\n- 3 HARI = Rp 7.000\n- 5 HAR = Rp 10.500\n- 7 HARI = Rp 12.000\n\n*note :*\n- akun dari admin\n- renewal akun jika durasi di atas 1 bulan",
       "isImage": false,
@@ -11315,13 +11301,6 @@
       "id": "120363154146071489@g.us",
       "key": "we tv",
       "response": "*WE TV PREMIUM*\n\n🌼 SHARING\n- 1 bulan = Rp 10.000\n- 3 bulan = Rp 18.000\n(*tidak boleh di tv*) \n\n🌼 PRIVATE\n- 1 bulan = Rp 35.000\n- 3 bulan = Rp 75.000\n(*boleh di tv*)",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363154146071489@g.us",
-      "key": "youku",
-      "response": "*YOUKU*\n\n🌼 SHARING\n- 1 bulan 16.000\n\n🌼 PRIVATE\n- 1 bulan 38.000",
       "isImage": false,
       "image_url": "-"
    },
@@ -12923,13 +12902,6 @@
    },
    {
       "id": "120363154146071489@g.us",
-      "key": "spotify",
-      "response": "*𝐒𝐏𝐎𝐓𝐈𝐅𝐘*\n\n★INDIVIDUAL PLAN (fullgar) ★\n1 BULAN 45k\n2 BULAN 75k\n★INDIVIDUAL PLAN (gar max 7d) \n1 BULAN 30k\n\n★FAMILY PLAN★\n1 BULAN 35k\n2 BULAN 47k\n\nAKUN SELLER +3k\n｟𝐍𝐨𝐭𝐞: ｠.\n• Indplan need fresh email+pw, kalo pun akun yg sudah pernah premium nanti di cek dulu\n• Family need email+pw, boleh yang sudah pernah premium tapi max 2x lebih dari itu ada chance replace.",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363154146071489@g.us",
       "key": "tabel hemat coll",
       "response": "*CONTOH SPIN HEMAT COLLECTOR*\n\n_Bisa jadi referensi kalian buat yg mau spin hemat dan bisa tau next spin habis berapa diamond_",
       "isImage": true,
@@ -12974,20 +12946,6 @@
       "id": "120363154146071489@g.us",
       "key": "sewa rt",
       "response": "*SEWA ROOM TOURNAMENT*\n\n🌼 1 MATCH = Rp 22.000 \n🌼 1 JAM = Rp 34.000\n\n*CEK JADWAL ROOM TOURNAMENT*: \n_tanya ke Piyoo agar di cek jadwalnya_\n\n*note :*\n- boleh live youtube dan tiktok\n- boleh untuk duo bucin\n- harap ready 10-15 menit sebelum jadwal dimulai\n- waktu sewa terhitung sesuai jadwal booking, bukan terhitung saat in game (saat dalam room juga terhitung waktu sewa)\n- hero, emblem, skin terbuka semua\n- minimal booking H-1, tidak bisa mendadak\n- payment di awal\n- terlambat 5 menit = hangus\n- tidak bisa cancel apabila sudah payment",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363170205658789@g.us",
-      "key": "chatgpt",
-      "response": "*CHATGPT*\n\n🌼 SHARING 1 BULAN\n- Rp 40.000\n\n*note :*\n- akun dari admin",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363154146071489@g.us",
-      "key": "chatgpt",
-      "response": "*CHATGPT*\n\n🌼 SHARING 1 BULAN\n- Rp 35.000\n\n*note :*\n- akun dari admin",
       "isImage": false,
       "image_url": "-"
    },
