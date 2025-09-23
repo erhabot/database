@@ -11124,13 +11124,6 @@
    },
    {
       "id": "120363170205658789@g.us",
-      "key": "vidio premium",
-      "response": "*VIDIO PREMIUM*\n\n_Paket langganan platinum only_\n\n🌼 SHARING\n- 1 bulan = Rp 23.000\n(*tidak boleh di tv*) \n\n🌼 PRIVATE\n- 1 bulan = Rp 35.000\n(*bisa login tv*)",
-      "isImage": false,
-      "image_url": "-"
-   },
-   {
-      "id": "120363170205658789@g.us",
       "key": "bstation",
       "response": "*BSTATION PREMIUM*\n\n🌼 SHARING\n- 1 bulan = Rp 15.000\n(*tidak boleh di tv*) \n\n🌼 PRIVATE\n- 1 bulan = Rp 43.000",
       "isImage": false,
@@ -11286,7 +11279,7 @@
    {
       "id": "120363154146071489@g.us",
       "key": "vidio prem",
-      "response": "*VIDIO PREMIUM*\n\n_Paket langganan platinum only_\n\n🌼 SHARING\n- 1 bulan = Rp 19.000\n(*tidak boleh di tv*) \n\n🌼 PRIVATE\n- 1 bulan = Rp 31.000\n(*bisa login tv*)",
+      "response": "*VIDIO PREMIUM*\n\n_Paket langganan platinum only_\n\n🌼 SHARING ❌\n- 1 bulan = Rp 19.000 ❌\n(*tidak boleh di tv*) \n\n🌼 PRIVATE ❌\n- 1 bulan = Rp 31.000 ❌\n(*bisa login tv*)",
       "isImage": false,
       "image_url": "-"
    },
@@ -13072,6 +13065,13 @@
       "id": "120363026491118427@g.us",
       "key": "pricelist lainnya",
       "response": "ㅤ \n    ⤿ ‘♡ . https://skaipigame.com｜桜の風 🎀 ◌.\n‎ㅤㅤ",
+      "isImage": false,
+      "image_url": "-"
+   },
+   {
+      "id": "120363170205658789@g.us",
+      "key": "vidio prem",
+      "response": "*VIDIO PREMIUM*\n\n_Paket langganan platinum only_\n\n🌼 SHARING ❌\n- 1 bulan = Rp 23.000 ❌\n(*tidak boleh di tv*) \n\n🌼 PRIVATE ❌\n- 1 bulan = Rp 35.000 ❌\n(*bisa login tv*)",
       "isImage": false,
       "image_url": "-"
    }
