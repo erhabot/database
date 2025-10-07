@@ -15,7 +15,7 @@
     "6281260900707@s.whatsapp.net": {
       "name": "W a N",
       "registered": false,
-      "lastChat": 1759840342000,
+      "lastChat": 1759859336000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -739,7 +739,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -5191,7 +5191,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 13,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -5647,7 +5647,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -7423,7 +7423,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 13,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -8899,7 +8899,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -17238,7 +17238,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 9,
+      "limit": 15,
       "exp_prem": 489902,
       "premium": false,
       "banned": false
@@ -28660,7 +28660,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 8,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -30087,7 +30087,7 @@
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 15,
       "exp_prem": 0,
       "premium": false,
       "banned": false
