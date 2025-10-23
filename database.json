@@ -15,14 +15,14 @@
     "6281260900707@s.whatsapp.net": {
       "name": "W a N",
       "registered": false,
-      "lastChat": 1761210446000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
       "limit": 15,
       "exp_prem": 35700,
       "premium": true,
-      "banned": false
+      "banned": false,
+      "lastChat": 1761237543000
     },
     "6281294994201@s.whatsapp.net": {
       "name": "King Himmel.",
@@ -63,7 +63,7 @@
     "62895322145253@s.whatsapp.net": {
       "name": "Piyoo",
       "registered": false,
-      "lastChat": 1761198982000,
+      "lastChat": 1761233931000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -675,11 +675,11 @@
     "62895384183417@s.whatsapp.net": {
       "name": "bakpia keju",
       "registered": false,
-      "lastChat": 1761212154000,
+      "lastChat": 1761214974000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 15,
+      "limit": 14,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -687,7 +687,7 @@
     "6285339040662@s.whatsapp.net": {
       "name": "bleurovin",
       "registered": false,
-      "lastChat": 1761194684000,
+      "lastChat": 1761224081000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -699,7 +699,7 @@
     "6281318008670@s.whatsapp.net": {
       "name": "San?",
       "registered": false,
-      "lastChat": 1761188891000,
+      "lastChat": 1761219054000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -783,7 +783,7 @@
     "62819640325@s.whatsapp.net": {
       "name": "tamzokkotsu",
       "registered": false,
-      "lastChat": 1761197822000,
+      "lastChat": 1761225668000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -2907,11 +2907,11 @@
     "6281315310235@s.whatsapp.net": {
       "name": "ezz~",
       "registered": false,
-      "lastChat": 1761206998000,
+      "lastChat": 1761235107000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 15,
+      "limit": 12,
       "exp_prem": 0,
       "premium": false,
       "banned": false
@@ -3579,7 +3579,7 @@
     "6285284028511@s.whatsapp.net": {
       "name": "500",
       "registered": false,
-      "lastChat": 1761191607000,
+      "lastChat": 1761227443000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -6411,7 +6411,7 @@
     "6289517407739@s.whatsapp.net": {
       "name": "Rae Vic Tanaka/Retaka",
       "registered": false,
-      "lastChat": 1761211677000,
+      "lastChat": 1761227443000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -6627,7 +6627,7 @@
     "6282375760968@s.whatsapp.net": {
       "name": "kheitheo",
       "registered": false,
-      "lastChat": 1760783787000,
+      "lastChat": 1761216880000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -6807,7 +6807,7 @@
     "6282123807322@s.whatsapp.net": {
       "name": "Re",
       "registered": false,
-      "lastChat": 1761203303000,
+      "lastChat": 1761229725000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -6927,7 +6927,7 @@
     "62882019217979@s.whatsapp.net": {
       "name": "*",
       "registered": false,
-      "lastChat": 1761188887000,
+      "lastChat": 1761227432000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -9783,7 +9783,7 @@
     "6281242802846@s.whatsapp.net": {
       "name": "nay",
       "registered": false,
-      "lastChat": 1761188912000,
+      "lastChat": 1761217235000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -17222,7 +17222,7 @@
     "62895422593777@s.whatsapp.net": {
       "name": ".",
       "registered": false,
-      "lastChat": 1761156951000,
+      "lastChat": 1761233400000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -17234,11 +17234,11 @@
     "62895329046646@s.whatsapp.net": {
       "name": "fine",
       "registered": false,
-      "lastChat": 1761181066000,
+      "lastChat": 1761228952000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
-      "limit": 14,
+      "limit": 13,
       "exp_prem": 614877,
       "premium": false,
       "banned": false
@@ -17342,14 +17342,14 @@
     "6282135329338@s.whatsapp.net": {
       "name": "𝓇𝒶 - 𝒶𝓃𝒶𝓈",
       "registered": false,
-      "lastChat": 1761208797000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
       "limit": 15,
       "exp_prem": 9998,
       "premium": false,
-      "banned": false
+      "banned": false,
+      "lastChat": 1761233367000
     },
     "6285775144596@s.whatsapp.net": {
       "name": "Biyyaa",
@@ -17510,7 +17510,7 @@
     "6285926475183@s.whatsapp.net": {
       "name": "tyaa",
       "registered": false,
-      "lastChat": 1761135683000,
+      "lastChat": 1761217450000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -18098,7 +18098,6 @@
     "6287742367293@s.whatsapp.net": {
       "name": "Zebrina",
       "registered": false,
-      "lastChat": 1761181961000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -19646,7 +19645,7 @@
     "62895365574355@s.whatsapp.net": {
       "name": "Hazmi",
       "registered": false,
-      "lastChat": 1761206348000,
+      "lastChat": 1761220768000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -19694,7 +19693,6 @@
     "62816768529@s.whatsapp.net": {
       "name": "jaeee",
       "registered": false,
-      "lastChat": 1761190729000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -29327,7 +29325,7 @@
     "628973868978@s.whatsapp.net": {
       "name": "lii",
       "registered": false,
-      "lastChat": 1761210711000,
+      "lastChat": 1761217034000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -29939,7 +29937,7 @@
     "62895328559382@s.whatsapp.net": {
       "name": "azrl",
       "registered": false,
-      "lastChat": 1761207335000,
+      "lastChat": 1761235544000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -30311,7 +30309,7 @@
     "62895704236212@s.whatsapp.net": {
       "name": "‎  ‎  ‎  ‎",
       "registered": false,
-      "lastChat": 1761210568343,
+      "lastChat": 1761229010000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -30467,7 +30465,7 @@
     "62895414579495@s.whatsapp.net": {
       "name": "d",
       "registered": false,
-      "lastChat": 1760242064000,
+      "lastChat": 1761219484000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -30887,7 +30885,7 @@
     "6282260607971@s.whatsapp.net": {
       "name": "nan",
       "registered": false,
-      "lastChat": 1761190410000,
+      "lastChat": 1761215090000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -31054,7 +31052,7 @@
     "62895344088118@s.whatsapp.net": {
       "name": "V",
       "registered": false,
-      "lastChat": 1761190401000,
+      "lastChat": 1761217469000,
       "afk": 0,
       "afk_reason": "",
       "money": 0,
@@ -31275,6 +31273,66 @@
       "afk_reason": "",
       "money": 0,
       "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "6281263701511@s.whatsapp.net": {
+      "name": "echa💥",
+      "registered": false,
+      "lastChat": 1761219808000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "6282380127633@s.whatsapp.net": {
+      "name": "1TEM_iqbal irvan s",
+      "registered": false,
+      "lastChat": 1761214311000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "62895611072244@s.whatsapp.net": {
+      "name": "Noyann",
+      "registered": false,
+      "lastChat": 1761214373000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "6285280471817@s.whatsapp.net": {
+      "name": "Alhadi Haque",
+      "registered": false,
+      "lastChat": 1761221035000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 15,
+      "exp_prem": 0,
+      "premium": false,
+      "banned": false
+    },
+    "6281370685673@s.whatsapp.net": {
+      "name": "marta",
+      "registered": false,
+      "lastChat": 1761222773000,
+      "afk": 0,
+      "afk_reason": "",
+      "money": 0,
+      "limit": 14,
       "exp_prem": 0,
       "premium": false,
       "banned": false
